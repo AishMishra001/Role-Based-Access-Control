@@ -48,6 +48,11 @@ update the package.json :
     "dev": "nodemon src/index.js"
   } `
 
+add .env : 
+
+PORT = 7001 
+CONNECTION_STRING = mongodb+srv://aishlunatic001:KrishnaRadha@cluster0.bdn15bk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+JWT_SECRET = Madhav
 
 #### Step 3 : Turn on the system 
 
