@@ -18,3 +18,12 @@ manager  :
 "username" : "Arpeet" , 
   "password" : "Arpeet"  , 
   "role" : "manager
+
+user : 
+
+{
+  "username" : "Manas" , 
+  "password" : "Manas" ,
+  "role": "user"
+
+}
